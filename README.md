@@ -6,4 +6,4 @@ i be tryna make games n shit fr fr
 
 ## my stuff
 
-[neovim config](init.lua)
+[neovim config](nvim/)
